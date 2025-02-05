@@ -1,7 +1,7 @@
 ``` markdown 
 #CalcUNO 
 
-A desktop calculator application built using Qt Creator and an Arudion board. The application performs basic arithmetic operations of: addition, subtraction, mulitplication, and division on two operands. The front end receives the operands in a text field provided and the computation is done by an arduino board and the results are displayed unto the Arduino desktop app. 
+A desktop calculator application built using Qt Creator and an Arduino board. The application performs basic arithmetic operations of: addition, subtraction, multiplication, and division on two operands. The front end receives the operands in a text field provided and the computation is done by an Arduino board and the results are displayed onto the Arduino desktop app. 
 
 --- 
 ## Features 
@@ -12,7 +12,7 @@ A desktop calculator application built using Qt Creator and an Arudion board. Th
 ---
 ## Requirements 
 -**Software**: 
-    - Qt Creator (version 6.2.0)
+    - Qt Creator (version 15.0.0 and higher)
     - Arduino IDE (version 2.0 and above)
 -**Hardwar**: 
     - Arduino UNO 
@@ -35,14 +35,14 @@ git clone https://github.com/GPrimeTech/CalcUNO.git
 
 ## Usage 
 1. Launch the Qt Application on your computer. 
-2. Enter the Product ID and Vendor ID of your arduino board in the spaces provided. 
+2. Enter the Product ID and Vendor ID of your Arduino board in the spaces provided. 
 3. Click connect to and wait for a confirmation message for a successful connection. 
 4. If there is a connection fail error, make sure your board is well connected. 
 5. Enter your operands in the text field provided and choose the appropriate operand. 
 6. The results will be displayed in the result field on the application.
 
 ## LICENSE 
-This project is licesed under the IU International University of Applied Sciences license. 
+This project is licensed under the IU International University of Applied Sciences license. 
 
 ## Contact 
 Song Deodonne: song.deodonne@iu-study.org/song.deodonne@gmail.com 
